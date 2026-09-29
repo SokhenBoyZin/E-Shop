@@ -1,0 +1,37 @@
+{
+  "name": "final",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.2.0",
+    "@nuxt/image": "^2.1.0",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@pinia/nuxt": "^1.0.2",
+    "@tailwindcss/vite": "^4.3.3",
+    "bakong-khqr": "^1.0.20",
+    "ipx": "^4.0.0-beta.1",
+    "nuxt": "^4.5.2",
+    "nuxt-swiper": "^2.0.2",
+    "pinia": "^4.0.3",
+    "primeicons": "^8.0.2",
+    "qrcode": "^1.5.4",
+    "qrcode.vue": "^3.11.0",
+    "swiper": "^14.2.0",
+    "tailwindcss": "^4.3.3",
+    "vue": "^3.5.41",
+    "vue-router": "^5.2.0",
+    "vue3-carousel": "^0.17.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "^26.6.2",
+    "postcss": "^8.5.28"
+  }
+}
